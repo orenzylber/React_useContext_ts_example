@@ -8,5 +8,7 @@ to see it:
 ## cd React_useContext_ts_example
 3. Update the path:
 ## cd my-app
-5. Activate the project:
+4. Install all dependencies in React including VE:
+## npm install or npm i
+6. Activate the project:
 ## npm start
